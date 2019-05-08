@@ -45,10 +45,10 @@ Features Descritpion :
 1. Age
 2. Sex
 3. cp : Chest Pain Type :
-  * Value 1: typical angina 
-  * Value 2: atypical angina 
-  * Value 3: non-anginal pain 
-  * Value 4: asymptomatic 
+    * Value 1: typical angina 
+    * Value 2: atypical angina 
+    * Value 3: non-anginal pain 
+    * Value 4: asymptomatic 
 4. trestbps : resting blood pressure (in mm Hg on admission to the hospital)
 5. chol : serum cholestoral in mg/dl
 6. fbs : fasting blood sugar > 120 mg/dl (1 = true; 0 = false)
