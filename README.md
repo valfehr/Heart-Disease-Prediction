@@ -1,1 +1,1 @@
-# Telco-Churn-Predicition
+# Heart Disease Predicition
