@@ -40,7 +40,6 @@ This will open the Jupyter Notebook software and project file in your browser.
 This dataset consists of 303 observations each consisting of 14 features. It comes from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Heart+Disease). 
 
 **Features**
-Features Descritpion :
 
 1. Age
 2. Sex
@@ -70,7 +69,7 @@ Features Descritpion :
     * 7 = reversable defect
 
 
-**Predicted feature :**
+**Predicted feature**
 
 14. target : diagnosis of heart disease (angiographic disease status)
     * Value 0: < 50% diameter narrowing 
