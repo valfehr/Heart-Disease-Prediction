@@ -12,6 +12,7 @@ This project requires **Python** and the following Python libraries installed:
 - [scikit-learn](http://scikit-learn.org/stable/)
 - [PyDotPlus](https://pydotplus.readthedocs.io/#)
 - [Graphviz](https://www.graphviz.org/)
+- [SHAP](https://shap.readthedocs.io/en/latest/)
 
 You will also need to have software installed to run and execute a [Jupyter Notebook](http://ipython.org/notebook.html)
 
