@@ -40,7 +40,7 @@ This will open the Jupyter Notebook software and project file in your browser.
 
 This dataset consists of 303 observations each consisting of 14 features. It comes from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Heart+Disease). It is called `heart.csv` and is available in this repository.
 
-The cost of teh different tests is included in the `heart-disease.cost` file.
+The cost of the different tests is included in the `heart-disease.cost` file.
 
 **Features**
 
